@@ -44,7 +44,7 @@ static final List<Widget> _widgetOptions = <Widget>[
           children: [
             ProfileItem(
               avatar: 'assets/images/avatar.jpg',
-              name: "User Name",
+              name: "Ceylan Atay",
               onTap: () {
                 Navigator.pushNamed(context, "/profile");
               },
